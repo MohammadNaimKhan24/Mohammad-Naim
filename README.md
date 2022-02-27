@@ -4,7 +4,7 @@ This is Mohammad Naim.I am learning web development with JavaScript.I was workin
 
 Skills:  REACT / JS / HTML / CSS/Bootstrap/Materialize/Sass/Java/Android
 
-- 🔭 I’m currently working on React Js 
+- 🔭 I’m currently working on Vanilla Js 
 - 🌱 I’m currently learning MERN Stack Web Development 
 - 💬 Ask me about My Dream 
 - 📫 How to reach me: mohammadnaimkhan357@gmail.com 
