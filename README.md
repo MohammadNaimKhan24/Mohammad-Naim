@@ -2,7 +2,7 @@
 #### Front End Web Developer
 This is Mohammad Naim.I am learning web development with JavaScript.I was working on Java and Android Mobile Apps Development.
 
-Skills:  REACT / JS / HTML / CSS/Bootstrap/Materialize/Sass/Java/Android
+Skills:  REACT / JS / HTML / CSS/Bootstrap/Material UI/Sass/Tailwind Css
 
 - 🔭 I’m currently working on Vanilla Js 
 - 🌱 I’m currently learning MERN Stack Web Development 
