@@ -1,6 +1,6 @@
 ### Hi there 👋,  I am Mohammad Naim
 #### Vanilla JavaScript Developer
-I am Mohammad Naim. I'm working on vanilla JavaScript. I have already done many projects to increase my programming knowledge.
+I'm working on vanilla JavaScript. I have already done many projects to increase my programming knowledge
 
 Skills: JavaScript / HTML / CSS/ Bootstrap
 
