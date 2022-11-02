@@ -1,11 +1,10 @@
 ### Hi there 👋,  I am Mohammad Naim
-#### Vanilla JavaScript Developer
-I'm working on vanilla JavaScript. I have already done many projects to increase my programming knowledge
+#### Web Application Developer
+I'm working on Web Application Development.
 
-Skills: JavaScript / HTML / CSS/ Bootstrap
+Skills: JavaScript / PHP / HTML / CSS/ Bootstrap
 
-- 🔭 I’m currently working on vanilla JavaScript
-- 🌱 I’m currently learning MERN Stack Web Development 
+- 🔭 I’m currently working PHP, Laravel
 - 💬 My dream is to become a great Programmer
 - 📫 How to reach me: mnaimdev@gmail.com 
 
